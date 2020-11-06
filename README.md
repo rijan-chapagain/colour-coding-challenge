@@ -9,7 +9,7 @@ Renders image of colours using JavaScript, p5.js, HTML, and CSS.
         git clone https://github.com/rijan-chapagain/colour-coding-challenge.git
     ```
     ```bash
-    # Open folder that contains package.json
+    # Open folder that contains index.html
     cd colour-coding-challenge
     ```
 
